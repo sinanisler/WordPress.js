@@ -50,6 +50,6 @@ If BOT          IF User
 ```
 
 ### ✔ WordPress Hierarchy
-Theme will support basit WordPress Hierarchy functions and flow.
+Theme will support basic WordPress Hierarchy functions and flow.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
