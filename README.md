@@ -13,7 +13,7 @@ WordPress Theme working on warp speed.
 
 
 ### ✔ Stack
-React + REST + Bootstrap + PurifyCSS + WordPress
+React + REST + Bootstrap + EJ2 + PurifyCSS + WordPress
 
 
 ### ✔ Info
