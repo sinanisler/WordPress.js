@@ -30,6 +30,6 @@ If BOT          IF User
 ```
 
 ### ✔ WordPress Hierarchy
-Ultimate goal making a WordPress Theme working faster than Headless WordPress
+Theme will support basit WordPress Hierarchy functions and flow.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
