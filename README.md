@@ -30,4 +30,4 @@ If BOT          IF User
 ### ✔ WordPress Hierarchy
 Ultimate goal of this project is supporting WordPress Hierarchy.
 
-![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy.png)
+![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
