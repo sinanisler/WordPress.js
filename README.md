@@ -28,11 +28,10 @@ If you dont need Headless just dont make it.
 
 
 ### Plan
-Plan is making the WordPress Server the only server and making React .jsx only on client side.
-Using React with GraphQL making the render on client side only.
+Plan is making the one WordPress server and making React work only client side.
+Using React with WP REST or GraphQL data point.
 WordPress will render bare minimum html for the crawlers but React will hide on users.
-If crawlers visit they will see read html and if user visit they will render the theme.
-
+If crawlers visit it will see html and if user visit will render the theme.
 
 
 ### ✔ Flow
