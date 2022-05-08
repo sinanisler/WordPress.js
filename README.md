@@ -21,7 +21,7 @@ Why not make a modern WordPress Theme but use just one server ?
 
 This is why i wanted to make this theme. 
 
-If you dont need Headless just dont make it. 
+Lets see how fast a native theme can be.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/img/headless-cms.jpg)
 
