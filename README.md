@@ -12,7 +12,7 @@ WordPress Theme working on warp speed.
 
 
 ### ✔ Stack
-React + WPGraphQL + WordPress
+React + REST + Maybe WPGraphQL + WordPress
 
 
 ### ✔ Why
@@ -52,7 +52,7 @@ If crawlers visit they will see read html and if user visit they will render the
            |
            |
            v
-   React + GQL + Cache
+  React + REST + Cache
            |
            |
        ____|____
