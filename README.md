@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/WordPress-blue.svg) 
 ![](https://img.shields.io/badge/JS-yellow.svg)
 ![](https://img.shields.io/badge/React-yellow.svg)
-![](https://img.shields.io/badge/WPGraphQL-pink.svg)
+![](https://img.shields.io/badge/REST-pink.svg)
 
 
 WordPress Theme working on warp speed.
