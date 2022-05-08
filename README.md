@@ -16,7 +16,7 @@ React + REST + Maybe WPGraphQL + WordPress
 
 
 ### ✔ Why
-Mst of the users or developers (like me) doesnt want to maintain two or more servers.
+Most of the users or developers (like me) doesnt want to maintain two or more servers.
 
 Why not make a modern WordPress Theme but use just one server ?
 
