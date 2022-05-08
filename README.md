@@ -34,6 +34,7 @@ If crawlers visit it will see html and if user visit will render the theme.
 The aim is making SEO as powerfull as a WordPress native theme.
 
 
+
 ### ✔ Flow
 ```
        WordPress 
@@ -46,10 +47,12 @@ The aim is making SEO as powerfull as a WordPress native theme.
        ____|____
 If BOT          IF User
   |               |
- HTML         React Render
+ HTML           React 
 ```
 
 ### ✔ WordPress Hierarchy
 Theme will support basic WordPress Hierarchy functions and flow.
+
+By the way WordPress already using React in the backend similar to this I think its time to move this teach to front end too.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
