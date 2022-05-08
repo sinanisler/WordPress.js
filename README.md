@@ -1,11 +1,21 @@
 # WordPress.js
 ![](https://img.shields.io/badge/Status-Under_Development-orange.svg)
+![](https://img.shields.io/badge/WordPress-blue.svg) 
+![](https://img.shields.io/badge/JS-yellow.svg)
 
 Ultimate goal making a WordPress Theme working faster than Headless WordPress
 
 
 ### ✔ Stack
 React + WPGraphQL + WordPress
+
+
+### ✔ Why not Headless?
+Headless have its own use but most of the developers doesnt have to own two or more servers.
+
+Why not make a modern WordPress Theme but use just one server ?
+
+
 
 ### Plan
 Plan is making the WordPress Server the only server and using React only client side.
