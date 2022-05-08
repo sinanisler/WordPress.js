@@ -16,10 +16,11 @@ React + WPGraphQL + WordPress
 ### ✔ Why
 Headless have its own use but most of the users or developers (like me) doesnt want to maintain two or more servers.
 
-Why not make a modern WordPress Theme but just one server ? Why Not ?
+Why not make a modern WordPress Theme but use just one server ?
 
-This is why i wanted to make this theme and just to see how it goes. 
-I think this maybe the new way of making WordPress Themes too need and have to try...
+This is why i wanted to make this theme. 
+
+I think this maybe the new way of making WordPress Themes too.
 
 
 ### ✔ Reasoning
