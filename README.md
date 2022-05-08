@@ -13,10 +13,12 @@ Ultimate goal making a WordPress Theme working faster than Headless WordPress
 React + WPGraphQL + WordPress
 
 
-### ✔ Why not Headless?
-Headless have its own use but most of the developers doesnt have to own two or more servers.
+### ✔ Why
+Headless have its own use but most of the developers (like me) doesnt want to pay or maintain two or more servers.
 
-Why not make a modern WordPress Theme but use just one server ?
+Why not make a modern WordPress Theme but just use just one server ?
+
+Why Not ?
 
 
 
