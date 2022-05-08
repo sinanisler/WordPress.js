@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/WPGraphQL-pink.svg)
 
 
-Ultimate goal making a WordPress Theme working as static site speed.
+WordPress Theme working on warp speed.
 
 
 ### ✔ Stack
