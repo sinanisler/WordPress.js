@@ -13,7 +13,7 @@ If bots visits they will see basic html if user visits they will render the webs
 
 
 ### Theme Hierarchy
-
+'''
        WordPress 
            |
            |
@@ -25,3 +25,4 @@ If bots visits they will see basic html if user visits they will render the webs
 If BOT          IF User
   |               |
  HTML         React Render
+'''
