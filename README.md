@@ -12,7 +12,7 @@ WordPress will render basit html for the crawlers but react will hide and check 
 If bots visits they will see basic html if user visits they will render the website.
 
 
-### Theme Hierarchy
+### Flow
 ```
        WordPress 
            |
@@ -26,3 +26,7 @@ If BOT          IF User
   |               |
  HTML         React Render
 ```
+
+### WordPress Hierarchy
+
+(https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy.png)
