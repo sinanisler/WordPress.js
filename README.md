@@ -16,7 +16,7 @@ React + WPGraphQL + WordPress
 
 
 ### ✔ Why
-Headless have its own use but most of the users or developers (like me) doesnt want to maintain two or more servers.
+Mst of the users or developers (like me) doesnt want to maintain two or more servers.
 
 Why not make a modern WordPress Theme but use just one server ?
 
@@ -52,7 +52,7 @@ If crawlers visit they will see read html and if user visit they will render the
            |
            |
            v
-     React + WP Theme
+   React + GQL + Cache
            |
            |
        ____|____
