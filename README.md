@@ -1,4 +1,6 @@
 # WordPress.js
+
+
 ![](https://img.shields.io/badge/Status-Under_Development-orange.svg)
 ![](https://img.shields.io/badge/WordPress-blue.svg) 
 ![](https://img.shields.io/badge/JS-yellow.svg)
@@ -29,21 +31,18 @@ Right now making a headless WordPress means giving up lots of plugins, theme fea
 
 Literaly we are cutting the head off one of the greatest open soruce software and putting in somewhere else. 
 
-Years of WordPress Theme Developers knowledge ignored. Why ?
-
 Why not use both worlds best features and combine it ?
 
-If you dont need Headless just dont do it.
+If you dont need Headless just dont do it. You will just create more problems than solution.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/img/headless-cms.jpg)
 
 
 ### Plan
-Plan is making the WordPress Server the only server and using React only client side.
+Plan is making the WordPress Server the only server and making React .jsx only on client side.
 Using React with GraphQL making the render on client side only.
 WordPress will render bare minimum html for the crawlers but React will hide on users.
 If crawlers visit they will see read html and if user visit they will render the theme.
-
 
 
 
