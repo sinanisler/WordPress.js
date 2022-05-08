@@ -53,6 +53,6 @@ If BOT          IF User
 ### ✔ WordPress Hierarchy
 Theme will support basic WordPress Hierarchy functions and flow.
 
-By the way WordPress already using React in the backend similar to this I think its time to move this teach to front end too.
+By the way WordPress already using React in the backend similar to this project.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
