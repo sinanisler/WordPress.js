@@ -1,4 +1,6 @@
 # WordPress.js
-WordPress.js Theme
+![](https://img.shields.io/badge/Status-Under_Development-orange.svg)
 
+
+### Stack
 React + ReactDOM + WPGraphQL + WordPress
