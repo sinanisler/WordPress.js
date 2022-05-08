@@ -30,7 +30,8 @@ Lets see how fast a native theme can be.
 Plan is making the one WordPress server and making React work only client side.
 Using React with WP REST or GraphQL data point.
 WordPress will render bare minimum html for the crawlers but React will hide on users.
-If crawlers visit it will see html and if user visit will render the theme.
+If crawlers visit it will see html and if user visit will render the theme. 
+The aim is making SEO as powerfull as a WordPress native theme.
 
 
 ### ✔ Flow
