@@ -29,4 +29,4 @@ If BOT          IF User
 
 ### WordPress Hierarchy
 
-(https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy.png)
+!(https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy.png)
