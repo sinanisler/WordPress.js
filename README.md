@@ -1,6 +1,8 @@
 # WordPress.js
 ![](https://img.shields.io/badge/Status-Under_Development-orange.svg)
 
+Ultimate goal making a WordPress Theme working faster than Headless WordPress
+
 
 ### ✔ Stack
 React + ReactDOM + WPGraphQL + WordPress
@@ -28,6 +30,6 @@ If BOT          IF User
 ```
 
 ### ✔ WordPress Hierarchy
-Ultimate goal of this project is supporting WordPress Hierarchy.
+Ultimate goal making a WordPress Theme working faster than Headless WordPress
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
