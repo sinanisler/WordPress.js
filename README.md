@@ -28,8 +28,8 @@ While having fun learning and trying couple things.
 ### Plan
 Plan is making the WordPress Server the only server and using React only client side.
 Using React with GraphQL making the render on client side only.
-WordPress will render basit html for the crawlers but react will hide and check the bots.
-If bots visits they will see basic html if user visits they will render the website.
+WordPress will render bare minimum html for the crawlers but React will hide on users.
+If crawlers visit they will see read html and if user visit they will render the theme.
 
 
 ### ✔ Flow
