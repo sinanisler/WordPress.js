@@ -9,12 +9,12 @@
 ![](https://img.shields.io/badge/REST-pink.svg)
 
 
-WordPress Theme working on warp speed.
+WordPress Theme working on Warp Speed.
 
 React + REST + Bootstrap + WordPress
 
 
-### ✔ Info
+### ✔ About
 I dont want to maintain two or more servers.
 
 Why not make a modern WordPress Theme but use just one server ?
