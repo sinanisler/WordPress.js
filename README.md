@@ -5,7 +5,7 @@ Ultimate goal making a WordPress Theme working faster than Headless WordPress
 
 
 ### ✔ Stack
-React + ReactDOM + WPGraphQL + WordPress
+React + WPGraphQL + WordPress
 
 ### Plan
 Plan is making the WordPress Server the only server and using React only client side.
