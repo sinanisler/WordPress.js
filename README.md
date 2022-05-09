@@ -14,7 +14,6 @@ React + REST + Bootstrap + WordPress
 
 
 ### ✔ About
-I dont want to maintain two or more servers.
 
 Why not make a modern WordPress Theme but use just one server ?
 
