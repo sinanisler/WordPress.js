@@ -10,7 +10,7 @@
 
 WordPress Theme working on Warp Speed.
 
-React + REST + Bootstrap + WordPress
+React + REST + Bootstrap + React Bootstrap + WordPress
 
 
 ### ✔ About
