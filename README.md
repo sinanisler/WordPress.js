@@ -59,7 +59,7 @@ By the way WordPress already using React in the backend similar to this project.
 
 
 
-### ✔ WP Power
+### ✔ Power
 
 ![](https://user-images.githubusercontent.com/1686324/167460147-a738bf38-7451-4984-acb7-1bc893cce2c3.gif)
 
