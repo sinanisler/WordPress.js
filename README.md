@@ -13,7 +13,7 @@ WordPress Theme working on Warp Speed.
 React + REST + Bootstrap + WordPress
 
 
-### ✔ About
+### About
 
 Why not make a modern WordPress Theme but use just one server ?
 
@@ -33,7 +33,7 @@ This is called Hydration lots of JS devs alraedy using this method.
 
 
 
-### ✔ Flow
+### Flow
 ```
        WordPress 
            |
