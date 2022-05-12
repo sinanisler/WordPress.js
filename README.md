@@ -15,7 +15,7 @@ React + REST + Bootstrap + WordPress
 
 ### About
 
-Why not make a modern WordPress Theme but use just one server ?
+Why not make a modern React WordPress Theme but use just one server ?
 
 This is why i wanted to make this theme. 
 
