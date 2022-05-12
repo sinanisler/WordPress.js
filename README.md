@@ -45,16 +45,15 @@ If BOT          IF User
  HTML           React 
 ```
 
-### ✔ WordPress Hierarchy
+### WordPress Hierarchy
 Theme will support basic WordPress Hierarchy functions and flow.
 
 ![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/WordPress-Hierarchy-v2.png)
 
-By the way WordPress already using React in the backend similar to this project.
 
 
 
-### ✔ Power
+### Power
 
 ![](https://user-images.githubusercontent.com/1686324/167460147-a738bf38-7451-4984-acb7-1bc893cce2c3.gif)
 
