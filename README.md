@@ -21,8 +21,6 @@ This is why i wanted to make this theme.
 
 Lets see how fast a native theme can be.
 
-![](https://raw.githubusercontent.com/sinanisler/sinanisler/master/img/headless-cms.jpg)
-
 
 ### Plan
 Plan is making the one WordPress server and making React work only client side.
