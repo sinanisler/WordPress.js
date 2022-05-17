@@ -22,6 +22,8 @@ This is why i wanted to make this theme.
 
 Lets see how fast a native theme can be.
 
+Apache, Ngnix or Litespeed is not slow bad code is slow...
+
 
 ### Plan
 Plan is making the one WordPress server and making React work only client side.
