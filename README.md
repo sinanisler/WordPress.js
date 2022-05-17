@@ -22,7 +22,7 @@ This is why i wanted to make this theme.
 
 Lets see how fast a native theme can be.
 
-Apache, Ngnix or Litespeed is not slow bad code is slow...
+Apache, Nginx or Litespeed is not slow bad code is slow...
 
 
 ### Plan
