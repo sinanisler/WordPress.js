@@ -10,10 +10,11 @@
 
 WordPress Theme working on Warp Speed.
 
-React + REST + Bootstrap + WordPress
+Planned Stack: React + REST + Bootstrap + WordPress
 
 
-### About
+
+### Planned Details
 
 Why not make a modern React WordPress Theme but use just one server ?
 
