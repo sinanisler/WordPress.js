@@ -32,6 +32,8 @@ WordPress will render bare minimum html for the crawlers but React will render o
 If crawlers visit it will see html and if user visit will render the theme. 
 The aim is making SEO as powerfull as a WordPress native theme.
 
+Most of the headless wp solutions have shit SEO out of the box...
+
 
 ### Flow
 ```
